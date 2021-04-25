@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-======
+
 I am currently pursuing my undergraduate studies in the area of Computer Science from IIIT, Nagpur. My interests lie in Deep Learning, Graphic Design, and Android Development. 
 
 
