@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently pursuing my undergraduate studies in the area of Computer Science from IIIT, Nagpur. My interests lie in Deep Learning, Graphic Design, and Android Development. 
+I am currently pursuing my undergraduate studies in the area of Computer Science from IIIT, Nagpur. My interests lie in Deep Learning, Graphic Design, and Android Development. 😇
 
 
 ======
