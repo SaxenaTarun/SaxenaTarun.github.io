@@ -1,5 +1,5 @@
 ---
-title: "Corona virus and Its Impact on Indian Sectors (In Review)"
+title: "Corona virus and Its Impact on Indian Sectors"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
