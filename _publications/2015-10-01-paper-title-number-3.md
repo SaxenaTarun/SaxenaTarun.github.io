@@ -3,8 +3,7 @@ title: "Corona virus and Its Impact on Indian Sectors (In Review)"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
-date: 2020-08-20
-venue: ''
+date: 2020-12-4
 
 ---
 Abstract
