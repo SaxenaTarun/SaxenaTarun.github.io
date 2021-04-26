@@ -12,7 +12,7 @@ redirect_from:
 
 I’m <span style=" font-size:1em; color:teal ">Tarun Saxena</span>, currently pursuing my undergraduate studies in Computer Science from IIIT, Nagpur. My interests lie in Deep Learning 🧠💻, Graphic Design 🖌, and Android Development 🤖.
 
-In the past, I have been fortunate to have worked with (in no particular order) Dr. Puneet Goyal <a href="https://sites.google.com/view/goyalpuneet" target="_top">[IIT ROPAR]</a>, Dr. Jitendra Tembhurne <a href="https://iiitn.ac.in//page.php?name=faculty&id=192#" target="_top">[IIITN]</a> and many other super-talented people!
+In the past, I have been fortunate to have worked with (in no particular order) Dr. Puneet Goyal <a href="https://sites.google.com/view/goyalpuneet" target="_top">[IIT Ropar]</a>, Dr. Jitendra Tembhurne <a href="https://iiitn.ac.in//page.php?name=faculty&id=192#" target="_top">[IIIT Nagpur]</a> and many other super-talented people!
 
 
 
