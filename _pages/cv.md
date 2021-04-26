@@ -49,7 +49,7 @@ Publications
 Projects
 ======
   <ul>{% for post in site.portfolio %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-portfolio-cv.html %}
   {% endfor %}</ul>
   
   
