@@ -52,12 +52,16 @@ Projects
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Extra Curricular
 ======
-* Currently signed in to 43 different slack teams
+* STROKES-The Design Community of IIITN
+  * Founder and Head
+* Indian Institute of Information Technology Nagpur
+  * Class Committee Member
+* Sacred Heart Convent School
+  * Discipline Committee Prefect
+* National Cyber Olympiad (NCO)
+  * Winner
+* Britannia Olympiad
+  * Winner
