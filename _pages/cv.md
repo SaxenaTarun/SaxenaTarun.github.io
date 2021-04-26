@@ -17,19 +17,19 @@ Education
 
 Work experience
 ======
-* Research Intern - National University of Singapore (NUS), Singapore
+* Research Intern - National University of Singapore (NUS), Singapore 🇸🇬
   * May 2021 - December 2021
-* Research Intern - The Chinese University of Hong Kong (CUHK), Hong Kong
-  * January 2021 - May 2021
-* Student Placement Coordinator - IIIT Nagpur
+* Research Intern - The Chinese University of Hong Kong (CUHK), Hong Kong 🇭🇰
+  * January 2021 - May 2021 
+* Student Placement Coordinator - IIIT Nagpur 🇮🇳
   * August 2020 - May 2021
-* Research Intern - Computer Science Department, IIIT Nagpur
+* Research Intern - Computer Science Department, IIIT Nagpur 🇮🇳
   * June 2020 - August 2020
-* Research Intern - Computer Science Department, IIT Ropar
+* Research Intern - Computer Science Department, IIT Ropar 🇮🇳
   * May 2020 - July 2020
-* Organizing Committee Member - Google Developers Group, Nagpur
+* Organizing Committee Member - Google Developers Group, Nagpur 🇮🇳
   * September 2019 - October 2019
-* Designing Co-Head - IIIT Nagpur
+* Designing Co-Head - IIIT Nagpur 🇮🇳
   * December 2018 - March 2020
   
 Skills
@@ -56,12 +56,24 @@ Projects
 Extra Curricular
 ======
 * STROKES-The Design Community of IIITN
-  * Founder and Head
+  * Founder and Head 
 * Indian Institute of Information Technology Nagpur
   * Class Committee Member
 * Sacred Heart Convent School
   * Discipline Committee Prefect
 * National Cyber Olympiad (NCO)
-  * Winner
+  * Winner 🏆
 * Britannia Olympiad
-  * Winner
+  * Winner 🏆
+
+
+
+
+
+
+
+
+
+
+
+  
