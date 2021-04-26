@@ -17,6 +17,8 @@ Education
 
 Work experience
 ======
+* Research Intern - National University of Singapore (NUS), Singapore
+  * May 2021 - December 2021
 * Research Intern - The Chinese University of Hong Kong (CUHK), Hong Kong
   * January 2021 - May 2021
 * Student Placement Coordinator - IIIT Nagpur
