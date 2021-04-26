@@ -48,7 +48,7 @@ Publications
   
 Projects
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.portfolio %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
