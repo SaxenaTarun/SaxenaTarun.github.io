@@ -1,5 +1,5 @@
 ---
-title: "Estimation of Prediction for Getting Heart Disease Using Logistic Regression Model of Machine Learning,"
+title: "Estimation of Prediction for Getting Heart Disease Using Logistic Regression Model of Machine Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
