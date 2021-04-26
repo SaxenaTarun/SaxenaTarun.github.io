@@ -11,7 +11,7 @@ redirect_from:
 
 # Hey friends <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m <span style="font-family:Papyrus; font-size:4em; color:red ">Tarun!</span>. I’m currently pursuing my undergraduate studies in the area of Computer Science from IIIT, Nagpur. My interests lie in Deep Learning, Graphic Design, and Android Development. 😇
+I’m <span style="font-family:Papyrus; font-size:4em; color:red ">Tarun Saxena!</span> I’m currently pursuing my undergraduate studies in the area of Computer Science from IIIT, Nagpur. My interests lie in Deep Learning, Graphic Design, and Android Development. 😇
 
 
 
