@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+---
 
-
-# Hey friends <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<span style=" font-size:3em; color:teal "> ** Hey friends **</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I’m <span style=" font-size:1em; color:teal ">Tarun Saxena</span> I’m currently pursuing my undergraduate studies in the area of Computer Science from IIIT, Nagpur. My interests lie in Deep Learning, Graphic Design, and Android Development. 😇
 
