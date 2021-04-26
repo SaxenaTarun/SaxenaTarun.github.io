@@ -1,6 +1,6 @@
 ---
 title: "Face Mask Detection Using CNN"
-excerpt: ""
+excerpt: "Project"
 collection: portfolio
 ---
 
