@@ -1,10 +1,11 @@
 ---
-title: "Face Mask Detection Using CNN"
-collection: project
-type: "Project"
-permalink: /talks/fmd
-
-date: Oct 2020 – Nov 2020
-
+title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+collection: talks
+type: "Conference proceedings talk"
+permalink: /talks/2014-03-01-talk-3
+venue: "Testing Institute of America 2014 Annual Conference"
+date: 2014-03-01
+location: "Los Angeles, CA"
 ---
-In my project, I was able to detect whether a person is wearing a mask or not in real-time using the CNN model with an accuracy of 89.98%.
+
+This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
