@@ -58,6 +58,12 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+instagram:
+  username               : &instagram
+github:
+  username               : &github
+linkedin:
+  username:              : &linkedin
 facebook:
   username               :
   app_id                 :
@@ -96,13 +102,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/SaxenaTarun"
+  github           : "SaxenaTarun"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/tarunsaxena21/"
+  instagram        : "tarunsaxena21"
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tarunsaxena17/"
+  linkedin         : "tarunsaxena17"
   orcid            : 
   pinterest        :
   soundcloud       :
