@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Secondary Education in Sacred Heart Convent School, 2015
+* Senior Secondary Education in S.D. Public School, 2017
+* B.Tech in Computer Science, Indian Institute of Information Technology Nagpur, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern - The Chinese University of Hong Kong (CUHK), Hong Kong
+  * January 2021 - May 2021
+* Student Placement Coordinator - IIIT Nagpur
+  * August 2020 - May 2021
+* Research Intern - Computer Science Department, IIIT Nagpur
+  * June 2020 - August 2020
+* Research Intern - Computer Science Department, IIT Ropar
+  * May 2020 - July 2020
+* Organizing Committee Member - Google Developers Group, Nagpur
+  * September 2019 - October 2019
+* Designing Co-Head - IIIT Nagpur
+  * December 2018 - March 2020
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  *  PyTorch
+  *  Tensorfow
+* C/C++
+* Dart
 
 Publications
 ======
@@ -42,7 +44,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Projects
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
