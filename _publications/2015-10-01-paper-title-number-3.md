@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2020-12-4
-  venue: 'In-Review'
+venue: 'In-Review'
 
 ---
 Abstract
