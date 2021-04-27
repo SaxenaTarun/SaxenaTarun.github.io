@@ -1,5 +1,5 @@
 ---
-<span style="color:teal ">title: "COWAR: An Android Based Mobile Application to Help Citizens and COVID-19 Warriors"</span>
+title: "COWAR: An Android Based Mobile Application to Help Citizens and COVID-19 Warriors"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-1
 excerpt: ''
