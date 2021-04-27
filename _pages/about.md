@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 ---
-<span style=" font-size:2em; font-weight:bold "> Hey friends<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </span>
+<span style=" font-size:2em; font-weight:bold;color:teal "> Hey friends<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </span>
 
-I’m <span style=" font-size:1em; color:teal ">Tarun Saxena</span>, currently pursuing my undergraduate studies in Computer Science from IIIT Nagpur.
+I’m <span style=" font-weight:bold ;">Tarun Saxena</span>, currently pursuing my undergraduate studies in Computer Science from IIIT Nagpur.
 My interests lie in :
 * Deep Learning 🧠💻
 * Graphic Design 🖌
@@ -22,7 +22,7 @@ When not on any deadline you can find me streaming random <a href="https://www.i
 <br />
 And believe me even<span style="color:teal "> I don't share F🥪🥪D !!!</span>
 
-<span style=" font-size:2em; font-weight:bold "> Timeline 💁🏻‍♂️</span>
+<span style=" font-size:2em; font-weight:bold; color:teal "> Timeline 💁🏻‍♂️</span>
 * Updating soon!!
 
 
