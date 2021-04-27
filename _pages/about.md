@@ -22,8 +22,8 @@ When not on any deadline you can find me streaming random <a href="https://www.i
 <br />
 And believe me even<span style="color:teal "> I don't share F🥪🥪D !!!</span>
 
-<span style=" font-size:2em; font-weight:bold "> I'm Working On 💁🏻‍♂️</span>
-* Still Updating!!!
+<span style=" font-size:2em; font-weight:bold "> Timeline 💁🏻‍♂️</span>
+* Updating soon!!
 
 
 
