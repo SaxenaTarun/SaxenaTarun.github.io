@@ -10,14 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<span style=" font-size:2em; font-weight:bold;color:teal ">Education</span>
 * Secondary Education in Sacred Heart Convent School, 2015
 * Senior Secondary Education in S.D. Public School, 2017
 * B.Tech in Computer Science, Indian Institute of Information Technology Nagpur, 2022 (expected)
 
-Work experience
-======
+<span style=" font-size:2em; font-weight:bold;color:teal ">Work experience</span>
 * Research Intern - National University of Singapore (NUS), Singapore 🇸🇬
   * June 2021 - December 2021
 * Research Intern - The Chinese University of Hong Kong (CUHK), Hong Kong 🇭🇰
@@ -33,29 +31,25 @@ Work experience
 * Designing Co-Head - IIIT Nagpur 🇮🇳
   * December 2018 - March 2020
   
-Skills
-======
+<span style=" font-size:2em; font-weight:bold;color:teal ">Skills</span>
 * Python
   *  PyTorch
   *  Tensorfow
 * C/C++
 * Dart
 
-Publications
-======
+<span style=" font-size:2em; font-weight:bold;color:teal ">Publications</span>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Projects
-======
+<span style=" font-size:2em; font-weight:bold;color:teal ">Projects</span>
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Extra Curricular
-======
+<span style=" font-size:2em; font-weight:bold;color:teal ">Extra Curricular</span>
 * STROKES-The Design Community of IIITN
   * Founder and Head 
 * Indian Institute of Information Technology Nagpur
