@@ -23,5 +23,7 @@ And believe me even<span style="font-weight:bold ; "> I don't share F🥪🥪D !
 <span style=" font-size:2em; font-weight:bold; color:teal "> Timeline 💁🏻‍♂️</span>
 * Updating soon!!
 
+![Visitor Count](https://profile-counter.glitch.me/{https://saxenatarun.github.io/}/count.svg)
+
 
 
