@@ -23,9 +23,5 @@ And believe me even<span style="font-weight:bold ; "> I don't share F🥪🥪D !
 <span style=" font-size:2em; font-weight:bold; color:teal "> Timeline 💁🏻‍♂️</span>
 * Updating soon!!
 
-<span class="views">
-        <img src="https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}" alt="Views"/>
-    </span>
-
-
+<script type="text/javascript" src="//counter.websiteout.net/js/7/4/100/0"></script>
 
